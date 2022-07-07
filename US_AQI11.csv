@@ -1,0 +1,295 @@
+,CBSA Code,Date,AQI,Category,Defining Parameter,Number of Sites Reporting,city_ascii,state_id,state_name,lat,lng,population,density,timezone
+1132,12060,5/1/2022,13,Good,CO,2,Atlanta,GA,Georgia,33.7628,-84.422,5151496,1419,America/New_York
+1654,12620,5/1/2022,34,Good,Ozone,2,Bangor,ME,Maine,44.8323,-68.7906,32029,360,America/New_York
+1655,12620,5/2/2022,33,Good,Ozone,2,Bangor,ME,Maine,44.8323,-68.7906,32029,360,America/New_York
+1656,12620,5/3/2022,38,Good,Ozone,2,Bangor,ME,Maine,44.8323,-68.7906,32029,360,America/New_York
+1657,12620,5/4/2022,34,Good,Ozone,2,Bangor,ME,Maine,44.8323,-68.7906,32029,360,America/New_York
+1658,12620,5/5/2022,44,Good,Ozone,2,Bangor,ME,Maine,44.8323,-68.7906,32029,360,America/New_York
+1659,12620,5/6/2022,46,Good,Ozone,2,Bangor,ME,Maine,44.8323,-68.7906,32029,360,America/New_York
+1660,12620,5/7/2022,42,Good,Ozone,2,Bangor,ME,Maine,44.8323,-68.7906,32029,360,America/New_York
+1661,12620,5/8/2022,44,Good,Ozone,2,Bangor,ME,Maine,44.8323,-68.7906,32029,360,America/New_York
+1662,12620,5/9/2022,54,Moderate,Ozone,2,Bangor,ME,Maine,44.8323,-68.7906,32029,360,America/New_York
+1663,12620,5/10/2022,46,Good,Ozone,2,Bangor,ME,Maine,44.8323,-68.7906,32029,360,America/New_York
+1664,12620,5/11/2022,47,Good,Ozone,2,Bangor,ME,Maine,44.8323,-68.7906,32029,360,America/New_York
+1665,12620,5/12/2022,43,Good,Ozone,2,Bangor,ME,Maine,44.8323,-68.7906,32029,360,America/New_York
+1666,12620,5/13/2022,29,Good,Ozone,2,Bangor,ME,Maine,44.8323,-68.7906,32029,360,America/New_York
+1667,12620,5/14/2022,41,Good,Ozone,2,Bangor,ME,Maine,44.8323,-68.7906,32029,360,America/New_York
+1668,12620,5/15/2022,20,Good,Ozone,2,Bangor,ME,Maine,44.8323,-68.7906,32029,360,America/New_York
+1669,12620,5/16/2022,30,Good,Ozone,2,Bangor,ME,Maine,44.8323,-68.7906,32029,360,America/New_York
+1670,12620,5/17/2022,35,Good,Ozone,2,Bangor,ME,Maine,44.8323,-68.7906,32029,360,America/New_York
+1671,12620,5/18/2022,40,Good,Ozone,2,Bangor,ME,Maine,44.8323,-68.7906,32029,360,America/New_York
+1672,12620,5/19/2022,38,Good,Ozone,1,Bangor,ME,Maine,44.8323,-68.7906,32029,360,America/New_York
+1673,12620,5/20/2022,39,Good,Ozone,1,Bangor,ME,Maine,44.8323,-68.7906,32029,360,America/New_York
+1674,12620,5/21/2022,36,Good,Ozone,1,Bangor,ME,Maine,44.8323,-68.7906,32029,360,America/New_York
+1675,12620,5/22/2022,44,Good,Ozone,1,Bangor,ME,Maine,44.8323,-68.7906,32029,360,America/New_York
+1676,12620,5/23/2022,28,Good,Ozone,1,Bangor,ME,Maine,44.8323,-68.7906,32029,360,America/New_York
+1677,12620,5/24/2022,29,Good,Ozone,2,Bangor,ME,Maine,44.8323,-68.7906,32029,360,America/New_York
+1678,12620,5/25/2022,31,Good,Ozone,2,Bangor,ME,Maine,44.8323,-68.7906,32029,360,America/New_York
+1679,12620,5/26/2022,35,Good,Ozone,2,Bangor,ME,Maine,44.8323,-68.7906,32029,360,America/New_York
+1680,12620,5/27/2022,31,Good,Ozone,2,Bangor,ME,Maine,44.8323,-68.7906,32029,360,America/New_York
+1681,12620,5/28/2022,27,Good,Ozone,2,Bangor,ME,Maine,44.8323,-68.7906,32029,360,America/New_York
+1682,12620,5/29/2022,36,Good,Ozone,2,Bangor,ME,Maine,44.8323,-68.7906,32029,360,America/New_York
+1683,12620,5/30/2022,43,Good,Ozone,2,Bangor,ME,Maine,44.8323,-68.7906,32029,360,America/New_York
+1684,12620,5/31/2022,26,Good,Ozone,2,Bangor,ME,Maine,44.8323,-68.7906,32029,360,America/New_York
+1895,12940,5/1/2022,2,Good,CO,1,Baton Rouge,LA,Louisiana,30.442,-91.1311,605449,993,America/Chicago
+1988,13100,5/1/2022,7,Good,PM2.5,1,Beatrice,NE,Nebraska,40.2736,-96.7455,12282,500,America/Chicago
+1989,13100,5/2/2022,5,Good,PM2.5,1,Beatrice,NE,Nebraska,40.2736,-96.7455,12282,500,America/Chicago
+1990,13100,5/3/2022,8,Good,PM2.5,1,Beatrice,NE,Nebraska,40.2736,-96.7455,12282,500,America/Chicago
+1991,13100,5/4/2022,4,Good,PM2.5,1,Beatrice,NE,Nebraska,40.2736,-96.7455,12282,500,America/Chicago
+1992,13100,5/5/2022,15,Good,PM2.5,1,Beatrice,NE,Nebraska,40.2736,-96.7455,12282,500,America/Chicago
+1993,13100,5/6/2022,3,Good,PM2.5,1,Beatrice,NE,Nebraska,40.2736,-96.7455,12282,500,America/Chicago
+1994,13100,5/7/2022,5,Good,PM2.5,1,Beatrice,NE,Nebraska,40.2736,-96.7455,12282,500,America/Chicago
+1995,13100,5/8/2022,31,Good,PM2.5,1,Beatrice,NE,Nebraska,40.2736,-96.7455,12282,500,America/Chicago
+1996,13100,5/13/2022,16,Good,PM2.5,1,Beatrice,NE,Nebraska,40.2736,-96.7455,12282,500,America/Chicago
+1997,13100,5/14/2022,18,Good,PM2.5,1,Beatrice,NE,Nebraska,40.2736,-96.7455,12282,500,America/Chicago
+1998,13100,5/15/2022,18,Good,PM2.5,1,Beatrice,NE,Nebraska,40.2736,-96.7455,12282,500,America/Chicago
+1999,13100,5/16/2022,15,Good,PM2.5,1,Beatrice,NE,Nebraska,40.2736,-96.7455,12282,500,America/Chicago
+2000,13100,5/17/2022,26,Good,PM2.5,1,Beatrice,NE,Nebraska,40.2736,-96.7455,12282,500,America/Chicago
+2001,13100,5/18/2022,28,Good,PM2.5,1,Beatrice,NE,Nebraska,40.2736,-96.7455,12282,500,America/Chicago
+2002,13100,5/19/2022,24,Good,PM2.5,1,Beatrice,NE,Nebraska,40.2736,-96.7455,12282,500,America/Chicago
+2003,13100,5/20/2022,15,Good,PM2.5,1,Beatrice,NE,Nebraska,40.2736,-96.7455,12282,500,America/Chicago
+2004,13100,5/21/2022,15,Good,PM2.5,1,Beatrice,NE,Nebraska,40.2736,-96.7455,12282,500,America/Chicago
+2005,13100,5/22/2022,14,Good,PM2.5,1,Beatrice,NE,Nebraska,40.2736,-96.7455,12282,500,America/Chicago
+2006,13100,5/23/2022,18,Good,PM2.5,1,Beatrice,NE,Nebraska,40.2736,-96.7455,12282,500,America/Chicago
+2007,13100,5/24/2022,23,Good,PM2.5,1,Beatrice,NE,Nebraska,40.2736,-96.7455,12282,500,America/Chicago
+2008,13100,5/25/2022,22,Good,PM2.5,1,Beatrice,NE,Nebraska,40.2736,-96.7455,12282,500,America/Chicago
+2009,13100,5/26/2022,20,Good,PM2.5,1,Beatrice,NE,Nebraska,40.2736,-96.7455,12282,500,America/Chicago
+2010,13100,5/27/2022,20,Good,PM2.5,1,Beatrice,NE,Nebraska,40.2736,-96.7455,12282,500,America/Chicago
+2011,13100,5/28/2022,31,Good,PM2.5,1,Beatrice,NE,Nebraska,40.2736,-96.7455,12282,500,America/Chicago
+2012,13100,5/29/2022,45,Good,PM2.5,1,Beatrice,NE,Nebraska,40.2736,-96.7455,12282,500,America/Chicago
+2013,13100,5/30/2022,35,Good,PM2.5,1,Beatrice,NE,Nebraska,40.2736,-96.7455,12282,500,America/Chicago
+2014,13100,5/31/2022,9,Good,PM2.5,1,Beatrice,NE,Nebraska,40.2736,-96.7455,12282,500,America/Chicago
+3235,15380,5/1/2022,2,Good,CO,2,Buffalo,NY,New York,42.9018,-78.8487,926607,2446,America/New_York
+4399,16740,5/1/2022,6,Good,CO,2,Charlotte,NC,North Carolina,35.2083,-80.8303,1526465,1094,America/New_York
+5360,17820,5/1/2022,3,Good,CO,1,Colorado Springs,CO,Colorado,38.8674,-104.7605,621332,932,America/Denver
+5813,18500,5/1/2022,1,Good,CO,1,Corning,NY,New York,42.147,-77.0561,10642,1332,America/New_York
+6373,19340,5/1/2022,2,Good,CO,1,Davenport,IA,Iowa,41.5565,-90.6053,281895,618,America/Chicago
+6494,19380,5/1/2022,2,Good,CO,1,Dayton,OH,Ohio,39.7805,-84.2003,723844,971,America/New_York
+6854,19740,5/1/2022,3,Good,CO,4,Denver,CO,Colorado,39.762,-104.8758,2709398,1805,America/Denver
+6975,19780,5/1/2022,3,Good,PM2.5,1,Des Moines,IA,Iowa,41.5725,-93.6105,519180,943,America/Chicago
+6976,19780,5/2/2022,15,Good,PM2.5,1,Des Moines,IA,Iowa,41.5725,-93.6105,519180,943,America/Chicago
+6977,19780,5/3/2022,12,Good,PM2.5,1,Des Moines,IA,Iowa,41.5725,-93.6105,519180,943,America/Chicago
+6978,19780,5/4/2022,15,Good,PM2.5,1,Des Moines,IA,Iowa,41.5725,-93.6105,519180,943,America/Chicago
+6979,19780,5/5/2022,30,Good,PM2.5,1,Des Moines,IA,Iowa,41.5725,-93.6105,519180,943,America/Chicago
+6980,19780,5/6/2022,36,Good,PM2.5,1,Des Moines,IA,Iowa,41.5725,-93.6105,519180,943,America/Chicago
+6981,19780,5/7/2022,20,Good,PM2.5,1,Des Moines,IA,Iowa,41.5725,-93.6105,519180,943,America/Chicago
+6982,19780,5/8/2022,23,Good,PM2.5,1,Des Moines,IA,Iowa,41.5725,-93.6105,519180,943,America/Chicago
+6983,19780,5/9/2022,51,Moderate,PM2.5,1,Des Moines,IA,Iowa,41.5725,-93.6105,519180,943,America/Chicago
+6984,19780,5/10/2022,64,Moderate,PM2.5,1,Des Moines,IA,Iowa,41.5725,-93.6105,519180,943,America/Chicago
+6985,19780,5/11/2022,68,Moderate,PM2.5,1,Des Moines,IA,Iowa,41.5725,-93.6105,519180,943,America/Chicago
+6986,19780,5/12/2022,53,Moderate,PM2.5,1,Des Moines,IA,Iowa,41.5725,-93.6105,519180,943,America/Chicago
+6987,19780,5/13/2022,30,Good,PM2.5,1,Des Moines,IA,Iowa,41.5725,-93.6105,519180,943,America/Chicago
+6988,19780,5/14/2022,40,Good,PM2.5,1,Des Moines,IA,Iowa,41.5725,-93.6105,519180,943,America/Chicago
+6989,19780,5/15/2022,18,Good,PM2.5,1,Des Moines,IA,Iowa,41.5725,-93.6105,519180,943,America/Chicago
+6990,19780,5/16/2022,22,Good,PM2.5,1,Des Moines,IA,Iowa,41.5725,-93.6105,519180,943,America/Chicago
+6991,19780,5/17/2022,33,Good,PM2.5,1,Des Moines,IA,Iowa,41.5725,-93.6105,519180,943,America/Chicago
+6992,19780,5/18/2022,36,Good,PM2.5,1,Des Moines,IA,Iowa,41.5725,-93.6105,519180,943,America/Chicago
+6993,19780,5/19/2022,29,Good,PM2.5,1,Des Moines,IA,Iowa,41.5725,-93.6105,519180,943,America/Chicago
+6994,19780,5/20/2022,12,Good,PM2.5,1,Des Moines,IA,Iowa,41.5725,-93.6105,519180,943,America/Chicago
+6995,19780,5/21/2022,13,Good,PM2.5,1,Des Moines,IA,Iowa,41.5725,-93.6105,519180,943,America/Chicago
+6996,19780,5/22/2022,16,Good,PM2.5,1,Des Moines,IA,Iowa,41.5725,-93.6105,519180,943,America/Chicago
+6997,19780,5/23/2022,19,Good,PM2.5,1,Des Moines,IA,Iowa,41.5725,-93.6105,519180,943,America/Chicago
+6998,19780,5/24/2022,32,Good,PM2.5,1,Des Moines,IA,Iowa,41.5725,-93.6105,519180,943,America/Chicago
+6999,19780,5/25/2022,22,Good,PM2.5,1,Des Moines,IA,Iowa,41.5725,-93.6105,519180,943,America/Chicago
+7000,19780,5/26/2022,14,Good,PM2.5,1,Des Moines,IA,Iowa,41.5725,-93.6105,519180,943,America/Chicago
+7001,19780,5/27/2022,19,Good,PM2.5,1,Des Moines,IA,Iowa,41.5725,-93.6105,519180,943,America/Chicago
+7002,19780,5/28/2022,17,Good,PM2.5,1,Des Moines,IA,Iowa,41.5725,-93.6105,519180,943,America/Chicago
+7003,19780,5/29/2022,33,Good,PM2.5,1,Des Moines,IA,Iowa,41.5725,-93.6105,519180,943,America/Chicago
+7004,19780,5/30/2022,51,Moderate,PM2.5,1,Des Moines,IA,Iowa,41.5725,-93.6105,519180,943,America/Chicago
+7005,19780,5/31/2022,20,Good,PM2.5,1,Des Moines,IA,Iowa,41.5725,-93.6105,519180,943,America/Chicago
+7326,20420,5/1/2022,1,Good,CO,2,Durango,CO,Colorado,37.2659,-107.8781,19413,509,America/Denver
+7564,20940,5/1/2022,64,Moderate,PM10,1,El Centro,CA,California,32.7865,-115.5595,110434,1430,America/Los_Angeles
+7565,20940,5/2/2022,53,Moderate,PM2.5,1,El Centro,CA,California,32.7865,-115.5595,110434,1430,America/Los_Angeles
+7566,20940,5/3/2022,55,Moderate,PM10,1,El Centro,CA,California,32.7865,-115.5595,110434,1430,America/Los_Angeles
+7567,20940,5/4/2022,31,Good,PM10,1,El Centro,CA,California,32.7865,-115.5595,110434,1430,America/Los_Angeles
+7568,20940,5/5/2022,46,Good,PM10,1,El Centro,CA,California,32.7865,-115.5595,110434,1430,America/Los_Angeles
+7569,20940,5/6/2022,60,Moderate,PM10,1,El Centro,CA,California,32.7865,-115.5595,110434,1430,America/Los_Angeles
+7570,20940,5/7/2022,82,Moderate,PM10,1,El Centro,CA,California,32.7865,-115.5595,110434,1430,America/Los_Angeles
+7571,20940,5/8/2022,205,Very Unhealthy,PM10,1,El Centro,CA,California,32.7865,-115.5595,110434,1430,America/Los_Angeles
+7572,20940,5/9/2022,103,Unhealthy for Sensitive Groups,PM10,1,El Centro,CA,California,32.7865,-115.5595,110434,1430,America/Los_Angeles
+7573,20940,5/10/2022,39,Good,PM10,1,El Centro,CA,California,32.7865,-115.5595,110434,1430,America/Los_Angeles
+7574,20940,5/11/2022,43,Good,PM10,1,El Centro,CA,California,32.7865,-115.5595,110434,1430,America/Los_Angeles
+7575,20940,5/12/2022,26,Good,PM10,1,El Centro,CA,California,32.7865,-115.5595,110434,1430,America/Los_Angeles
+7576,20940,5/13/2022,24,Good,PM10,1,El Centro,CA,California,32.7865,-115.5595,110434,1430,America/Los_Angeles
+7577,20940,5/14/2022,29,Good,PM10,1,El Centro,CA,California,32.7865,-115.5595,110434,1430,America/Los_Angeles
+7578,20940,5/15/2022,51,Moderate,PM10,1,El Centro,CA,California,32.7865,-115.5595,110434,1430,America/Los_Angeles
+7579,20940,5/16/2022,73,Moderate,PM10,1,El Centro,CA,California,32.7865,-115.5595,110434,1430,America/Los_Angeles
+7580,20940,5/17/2022,56,Moderate,PM10,1,El Centro,CA,California,32.7865,-115.5595,110434,1430,America/Los_Angeles
+7581,20940,5/18/2022,44,Good,PM2.5,1,El Centro,CA,California,32.7865,-115.5595,110434,1430,America/Los_Angeles
+7582,20940,5/19/2022,53,Moderate,PM10,1,El Centro,CA,California,32.7865,-115.5595,110434,1430,America/Los_Angeles
+7583,20940,5/20/2022,217,Very Unhealthy,PM10,1,El Centro,CA,California,32.7865,-115.5595,110434,1430,America/Los_Angeles
+7584,20940,5/21/2022,55,Moderate,PM10,1,El Centro,CA,California,32.7865,-115.5595,110434,1430,America/Los_Angeles
+7585,20940,5/22/2022,45,Good,PM2.5,1,El Centro,CA,California,32.7865,-115.5595,110434,1430,America/Los_Angeles
+7586,20940,5/23/2022,46,Good,PM2.5,1,El Centro,CA,California,32.7865,-115.5595,110434,1430,America/Los_Angeles
+7587,20940,5/24/2022,44,Good,PM10,1,El Centro,CA,California,32.7865,-115.5595,110434,1430,America/Los_Angeles
+7588,20940,5/25/2022,52,Moderate,PM10,1,El Centro,CA,California,32.7865,-115.5595,110434,1430,America/Los_Angeles
+7589,20940,5/26/2022,52,Moderate,PM10,1,El Centro,CA,California,32.7865,-115.5595,110434,1430,America/Los_Angeles
+7590,20940,5/27/2022,53,Moderate,PM10,1,El Centro,CA,California,32.7865,-115.5595,110434,1430,America/Los_Angeles
+7591,20940,5/28/2022,406,Hazardous,PM10,1,El Centro,CA,California,32.7865,-115.5595,110434,1430,America/Los_Angeles
+7592,20940,5/29/2022,733,Hazardous,PM10,1,El Centro,CA,California,32.7865,-115.5595,110434,1430,America/Los_Angeles
+7593,20940,5/30/2022,83,Moderate,PM10,1,El Centro,CA,California,32.7865,-115.5595,110434,1430,America/Los_Angeles
+7594,20940,5/31/2022,45,Good,PM10,1,El Centro,CA,California,32.7865,-115.5595,110434,1430,America/Los_Angeles
+8394,22660,5/1/2022,2,Good,CO,1,Fort Collins,CO,Colorado,40.5477,-105.0656,304657,1120,America/Denver
+9239,24260,5/1/2022,18,Good,PM2.5,1,Grand Island,NE,Nebraska,40.9218,-98.3586,51250,658,America/Chicago
+9240,24260,5/2/2022,20,Good,PM2.5,1,Grand Island,NE,Nebraska,40.9218,-98.3586,51250,658,America/Chicago
+9241,24260,5/7/2022,13,Good,PM2.5,1,Grand Island,NE,Nebraska,40.9218,-98.3586,51250,658,America/Chicago
+9242,24260,5/8/2022,19,Good,PM2.5,1,Grand Island,NE,Nebraska,40.9218,-98.3586,51250,658,America/Chicago
+9243,24260,5/9/2022,55,Moderate,PM2.5,1,Grand Island,NE,Nebraska,40.9218,-98.3586,51250,658,America/Chicago
+9244,24260,5/10/2022,26,Good,PM2.5,1,Grand Island,NE,Nebraska,40.9218,-98.3586,51250,658,America/Chicago
+9245,24260,5/11/2022,47,Good,PM2.5,1,Grand Island,NE,Nebraska,40.9218,-98.3586,51250,658,America/Chicago
+9246,24260,5/12/2022,48,Good,PM2.5,1,Grand Island,NE,Nebraska,40.9218,-98.3586,51250,658,America/Chicago
+9247,24260,5/13/2022,12,Good,PM2.5,1,Grand Island,NE,Nebraska,40.9218,-98.3586,51250,658,America/Chicago
+9248,24260,5/14/2022,13,Good,PM2.5,1,Grand Island,NE,Nebraska,40.9218,-98.3586,51250,658,America/Chicago
+9249,24260,5/15/2022,11,Good,PM2.5,1,Grand Island,NE,Nebraska,40.9218,-98.3586,51250,658,America/Chicago
+9250,24260,5/16/2022,12,Good,PM2.5,1,Grand Island,NE,Nebraska,40.9218,-98.3586,51250,658,America/Chicago
+9251,24260,5/17/2022,24,Good,PM2.5,1,Grand Island,NE,Nebraska,40.9218,-98.3586,51250,658,America/Chicago
+9252,24260,5/18/2022,23,Good,PM2.5,1,Grand Island,NE,Nebraska,40.9218,-98.3586,51250,658,America/Chicago
+9253,24260,5/19/2022,21,Good,PM2.5,1,Grand Island,NE,Nebraska,40.9218,-98.3586,51250,658,America/Chicago
+9254,24260,5/20/2022,10,Good,PM2.5,1,Grand Island,NE,Nebraska,40.9218,-98.3586,51250,658,America/Chicago
+9255,24260,5/21/2022,8,Good,PM2.5,1,Grand Island,NE,Nebraska,40.9218,-98.3586,51250,658,America/Chicago
+9256,24260,5/22/2022,19,Good,PM2.5,1,Grand Island,NE,Nebraska,40.9218,-98.3586,51250,658,America/Chicago
+9257,24260,5/23/2022,11,Good,PM2.5,1,Grand Island,NE,Nebraska,40.9218,-98.3586,51250,658,America/Chicago
+9258,24260,5/24/2022,20,Good,PM2.5,1,Grand Island,NE,Nebraska,40.9218,-98.3586,51250,658,America/Chicago
+9259,24260,5/25/2022,9,Good,PM2.5,1,Grand Island,NE,Nebraska,40.9218,-98.3586,51250,658,America/Chicago
+9260,24260,5/26/2022,17,Good,PM2.5,1,Grand Island,NE,Nebraska,40.9218,-98.3586,51250,658,America/Chicago
+9261,24260,5/27/2022,21,Good,PM2.5,1,Grand Island,NE,Nebraska,40.9218,-98.3586,51250,658,America/Chicago
+9262,24260,5/28/2022,28,Good,PM2.5,1,Grand Island,NE,Nebraska,40.9218,-98.3586,51250,658,America/Chicago
+9263,24260,5/29/2022,54,Moderate,PM2.5,1,Grand Island,NE,Nebraska,40.9218,-98.3586,51250,658,America/Chicago
+9264,24260,5/30/2022,47,Good,PM2.5,1,Grand Island,NE,Nebraska,40.9218,-98.3586,51250,658,America/Chicago
+9265,24260,5/31/2022,8,Good,PM2.5,1,Grand Island,NE,Nebraska,40.9218,-98.3586,51250,658,America/Chicago
+9579,24540,5/1/2022,2,Good,CO,1,Greeley,CO,Colorado,40.4152,-104.7706,134417,847,America/Denver
+15993,35380,5/1/2022,6,Good,CO,1,New Orleans,LA,Louisiana,30.0687,-89.9288,957783,891,America/Chicago
+16114,35620,5/1/2022,3,Good,CO,5,New York,NY,New York,40.6943,-73.9249,18680025,10768,America/New_York
+16446,36260,5/1/2022,5,Good,CO,1,Ogden,UT,Utah,41.2279,-111.9682,615015,1221,America/Denver
+16689,36540,5/1/2022,5,Good,PM10,1,Omaha,NE,Nebraska,41.2627,-96.0529,791432,1307,America/Chicago
+16690,36540,5/2/2022,4,Good,PM10,1,Omaha,NE,Nebraska,41.2627,-96.0529,791432,1307,America/Chicago
+16691,36540,5/3/2022,5,Good,PM10,1,Omaha,NE,Nebraska,41.2627,-96.0529,791432,1307,America/Chicago
+16692,36540,5/4/2022,5,Good,PM10,1,Omaha,NE,Nebraska,41.2627,-96.0529,791432,1307,America/Chicago
+16693,36540,5/5/2022,6,Good,PM10,1,Omaha,NE,Nebraska,41.2627,-96.0529,791432,1307,America/Chicago
+16694,36540,5/6/2022,5,Good,PM10,1,Omaha,NE,Nebraska,41.2627,-96.0529,791432,1307,America/Chicago
+16695,36540,5/7/2022,7,Good,PM10,1,Omaha,NE,Nebraska,41.2627,-96.0529,791432,1307,America/Chicago
+16696,36540,5/8/2022,14,Good,PM10,1,Omaha,NE,Nebraska,41.2627,-96.0529,791432,1307,America/Chicago
+16697,36540,5/9/2022,62,Moderate,PM10,1,Omaha,NE,Nebraska,41.2627,-96.0529,791432,1307,America/Chicago
+16698,36540,5/10/2022,41,Good,PM10,1,Omaha,NE,Nebraska,41.2627,-96.0529,791432,1307,America/Chicago
+16699,36540,5/11/2022,32,Good,PM10,1,Omaha,NE,Nebraska,41.2627,-96.0529,791432,1307,America/Chicago
+16700,36540,5/12/2022,37,Good,PM10,1,Omaha,NE,Nebraska,41.2627,-96.0529,791432,1307,America/Chicago
+16701,36540,5/13/2022,17,Good,PM10,1,Omaha,NE,Nebraska,41.2627,-96.0529,791432,1307,America/Chicago
+16702,36540,5/14/2022,20,Good,PM10,1,Omaha,NE,Nebraska,41.2627,-96.0529,791432,1307,America/Chicago
+16703,36540,5/15/2022,9,Good,PM10,1,Omaha,NE,Nebraska,41.2627,-96.0529,791432,1307,America/Chicago
+16704,36540,5/16/2022,24,Good,PM10,1,Omaha,NE,Nebraska,41.2627,-96.0529,791432,1307,America/Chicago
+16705,36540,5/17/2022,16,Good,PM10,1,Omaha,NE,Nebraska,41.2627,-96.0529,791432,1307,America/Chicago
+16706,36540,5/18/2022,15,Good,PM10,1,Omaha,NE,Nebraska,41.2627,-96.0529,791432,1307,America/Chicago
+16707,36540,5/19/2022,21,Good,PM10,1,Omaha,NE,Nebraska,41.2627,-96.0529,791432,1307,America/Chicago
+16708,36540,5/20/2022,18,Good,PM10,1,Omaha,NE,Nebraska,41.2627,-96.0529,791432,1307,America/Chicago
+16709,36540,5/21/2022,8,Good,PM10,1,Omaha,NE,Nebraska,41.2627,-96.0529,791432,1307,America/Chicago
+16710,36540,5/22/2022,12,Good,PM10,1,Omaha,NE,Nebraska,41.2627,-96.0529,791432,1307,America/Chicago
+16711,36540,5/23/2022,23,Good,PM10,1,Omaha,NE,Nebraska,41.2627,-96.0529,791432,1307,America/Chicago
+16712,36540,5/24/2022,17,Good,PM10,1,Omaha,NE,Nebraska,41.2627,-96.0529,791432,1307,America/Chicago
+16713,36540,5/25/2022,3,Good,PM10,1,Omaha,NE,Nebraska,41.2627,-96.0529,791432,1307,America/Chicago
+16714,36540,5/26/2022,6,Good,PM10,1,Omaha,NE,Nebraska,41.2627,-96.0529,791432,1307,America/Chicago
+16715,36540,5/27/2022,11,Good,PM10,1,Omaha,NE,Nebraska,41.2627,-96.0529,791432,1307,America/Chicago
+16716,36540,5/28/2022,14,Good,PM10,1,Omaha,NE,Nebraska,41.2627,-96.0529,791432,1307,America/Chicago
+16717,36540,5/29/2022,24,Good,PM10,1,Omaha,NE,Nebraska,41.2627,-96.0529,791432,1307,America/Chicago
+16718,36540,5/30/2022,26,Good,PM10,1,Omaha,NE,Nebraska,41.2627,-96.0529,791432,1307,America/Chicago
+16719,36540,5/31/2022,12,Good,PM10,1,Omaha,NE,Nebraska,41.2627,-96.0529,791432,1307,America/Chicago
+18182,38860,5/1/2022,40,Good,Ozone,3,Portland,ME,Maine,43.6773,-70.2715,213986,1195,America/New_York
+18183,38860,5/2/2022,37,Good,Ozone,3,Portland,ME,Maine,43.6773,-70.2715,213986,1195,America/New_York
+18184,38860,5/3/2022,39,Good,Ozone,3,Portland,ME,Maine,43.6773,-70.2715,213986,1195,America/New_York
+18185,38860,5/4/2022,31,Good,Ozone,3,Portland,ME,Maine,43.6773,-70.2715,213986,1195,America/New_York
+18186,38860,5/5/2022,46,Good,Ozone,3,Portland,ME,Maine,43.6773,-70.2715,213986,1195,America/New_York
+18187,38860,5/6/2022,46,Good,Ozone,3,Portland,ME,Maine,43.6773,-70.2715,213986,1195,America/New_York
+18188,38860,5/7/2022,40,Good,Ozone,3,Portland,ME,Maine,43.6773,-70.2715,213986,1195,America/New_York
+18189,38860,5/8/2022,40,Good,Ozone,2,Portland,ME,Maine,43.6773,-70.2715,213986,1195,America/New_York
+18190,38860,5/9/2022,58,Moderate,Ozone,3,Portland,ME,Maine,43.6773,-70.2715,213986,1195,America/New_York
+18191,38860,5/10/2022,47,Good,Ozone,3,Portland,ME,Maine,43.6773,-70.2715,213986,1195,America/New_York
+18192,38860,5/11/2022,49,Good,Ozone,3,Portland,ME,Maine,43.6773,-70.2715,213986,1195,America/New_York
+18193,38860,5/12/2022,43,Good,Ozone,3,Portland,ME,Maine,43.6773,-70.2715,213986,1195,America/New_York
+18194,38860,5/13/2022,38,Good,Ozone,3,Portland,ME,Maine,43.6773,-70.2715,213986,1195,America/New_York
+18195,38860,5/14/2022,38,Good,Ozone,3,Portland,ME,Maine,43.6773,-70.2715,213986,1195,America/New_York
+18196,38860,5/15/2022,31,Good,Ozone,3,Portland,ME,Maine,43.6773,-70.2715,213986,1195,America/New_York
+18197,38860,5/16/2022,33,Good,Ozone,3,Portland,ME,Maine,43.6773,-70.2715,213986,1195,America/New_York
+18198,38860,5/17/2022,35,Good,Ozone,3,Portland,ME,Maine,43.6773,-70.2715,213986,1195,America/New_York
+18199,38860,5/18/2022,44,Good,Ozone,3,Portland,ME,Maine,43.6773,-70.2715,213986,1195,America/New_York
+18200,38860,5/19/2022,46,Good,Ozone,3,Portland,ME,Maine,43.6773,-70.2715,213986,1195,America/New_York
+18201,38860,5/20/2022,43,Good,Ozone,3,Portland,ME,Maine,43.6773,-70.2715,213986,1195,America/New_York
+18202,38860,5/21/2022,39,Good,Ozone,3,Portland,ME,Maine,43.6773,-70.2715,213986,1195,America/New_York
+18203,38860,5/22/2022,40,Good,Ozone,3,Portland,ME,Maine,43.6773,-70.2715,213986,1195,America/New_York
+18204,38860,5/23/2022,30,Good,Ozone,3,Portland,ME,Maine,43.6773,-70.2715,213986,1195,America/New_York
+18205,38860,5/24/2022,31,Good,Ozone,3,Portland,ME,Maine,43.6773,-70.2715,213986,1195,America/New_York
+18206,38860,5/25/2022,37,Good,Ozone,3,Portland,ME,Maine,43.6773,-70.2715,213986,1195,America/New_York
+18207,38860,5/26/2022,42,Good,Ozone,3,Portland,ME,Maine,43.6773,-70.2715,213986,1195,America/New_York
+18208,38860,5/27/2022,32,Good,Ozone,3,Portland,ME,Maine,43.6773,-70.2715,213986,1195,America/New_York
+18209,38860,5/28/2022,31,Good,Ozone,3,Portland,ME,Maine,43.6773,-70.2715,213986,1195,America/New_York
+18210,38860,5/29/2022,39,Good,Ozone,3,Portland,ME,Maine,43.6773,-70.2715,213986,1195,America/New_York
+18211,38860,5/30/2022,54,Moderate,Ozone,3,Portland,ME,Maine,43.6773,-70.2715,213986,1195,America/New_York
+18212,38860,5/31/2022,35,Good,Ozone,3,Portland,ME,Maine,43.6773,-70.2715,213986,1195,America/New_York
+18813,39340,5/1/2022,2,Good,CO,1,Provo,UT,Utah,40.2457,-111.6457,563884,1082,America/Denver
+19333,40060,5/5/2022,9,Good,PM10,2,Richmond,VA,Virginia,37.5295,-77.4756,1025117,1476,America/New_York
+19454,40140,5/1/2022,61,Moderate,PM10,1,Riverside,CA,California,33.9381,-117.3949,2112239,1556,America/Los_Angeles
+19455,40140,5/2/2022,44,Good,PM10,1,Riverside,CA,California,33.9381,-117.3949,2112239,1556,America/Los_Angeles
+19456,40140,5/3/2022,52,Moderate,PM10,1,Riverside,CA,California,33.9381,-117.3949,2112239,1556,America/Los_Angeles
+19457,40140,5/4/2022,35,Good,PM10,1,Riverside,CA,California,33.9381,-117.3949,2112239,1556,America/Los_Angeles
+19458,40140,5/5/2022,51,Moderate,PM10,1,Riverside,CA,California,33.9381,-117.3949,2112239,1556,America/Los_Angeles
+19459,40140,5/6/2022,58,Moderate,PM10,1,Riverside,CA,California,33.9381,-117.3949,2112239,1556,America/Los_Angeles
+19460,40140,5/7/2022,83,Moderate,PM10,1,Riverside,CA,California,33.9381,-117.3949,2112239,1556,America/Los_Angeles
+19461,40140,5/8/2022,364,Hazardous,PM10,1,Riverside,CA,California,33.9381,-117.3949,2112239,1556,America/Los_Angeles
+19462,40140,5/9/2022,78,Moderate,PM10,1,Riverside,CA,California,33.9381,-117.3949,2112239,1556,America/Los_Angeles
+19463,40140,5/10/2022,63,Moderate,PM10,1,Riverside,CA,California,33.9381,-117.3949,2112239,1556,America/Los_Angeles
+19464,40140,5/11/2022,44,Good,PM10,1,Riverside,CA,California,33.9381,-117.3949,2112239,1556,America/Los_Angeles
+19465,40140,5/12/2022,31,Good,PM10,1,Riverside,CA,California,33.9381,-117.3949,2112239,1556,America/Los_Angeles
+19466,40140,5/13/2022,52,Moderate,PM10,1,Riverside,CA,California,33.9381,-117.3949,2112239,1556,America/Los_Angeles
+19467,40140,5/14/2022,37,Good,PM10,1,Riverside,CA,California,33.9381,-117.3949,2112239,1556,America/Los_Angeles
+19468,40140,5/15/2022,42,Good,PM10,1,Riverside,CA,California,33.9381,-117.3949,2112239,1556,America/Los_Angeles
+19469,40140,5/16/2022,80,Moderate,PM10,1,Riverside,CA,California,33.9381,-117.3949,2112239,1556,America/Los_Angeles
+19470,40140,5/17/2022,63,Moderate,PM10,1,Riverside,CA,California,33.9381,-117.3949,2112239,1556,America/Los_Angeles
+19471,40140,5/18/2022,52,Moderate,PM10,1,Riverside,CA,California,33.9381,-117.3949,2112239,1556,America/Los_Angeles
+19472,40140,5/19/2022,51,Moderate,PM10,1,Riverside,CA,California,33.9381,-117.3949,2112239,1556,America/Los_Angeles
+19473,40140,5/20/2022,187,Unhealthy,PM10,1,Riverside,CA,California,33.9381,-117.3949,2112239,1556,America/Los_Angeles
+19474,40140,5/21/2022,50,Good,PM10,1,Riverside,CA,California,33.9381,-117.3949,2112239,1556,America/Los_Angeles
+19475,40140,5/22/2022,35,Good,PM10,1,Riverside,CA,California,33.9381,-117.3949,2112239,1556,America/Los_Angeles
+19476,40140,5/23/2022,54,Moderate,PM10,1,Riverside,CA,California,33.9381,-117.3949,2112239,1556,America/Los_Angeles
+19477,40140,5/24/2022,57,Moderate,PM10,1,Riverside,CA,California,33.9381,-117.3949,2112239,1556,America/Los_Angeles
+19478,40140,5/25/2022,53,Moderate,PM10,1,Riverside,CA,California,33.9381,-117.3949,2112239,1556,America/Los_Angeles
+19479,40140,5/26/2022,59,Moderate,PM10,1,Riverside,CA,California,33.9381,-117.3949,2112239,1556,America/Los_Angeles
+19480,40140,5/27/2022,57,Moderate,PM10,1,Riverside,CA,California,33.9381,-117.3949,2112239,1556,America/Los_Angeles
+19481,40140,5/28/2022,407,Hazardous,PM10,1,Riverside,CA,California,33.9381,-117.3949,2112239,1556,America/Los_Angeles
+19482,40140,5/29/2022,631,Hazardous,PM10,1,Riverside,CA,California,33.9381,-117.3949,2112239,1556,America/Los_Angeles
+19483,40140,5/30/2022,70,Moderate,PM10,1,Riverside,CA,California,33.9381,-117.3949,2112239,1556,America/Los_Angeles
+19484,40140,5/31/2022,46,Good,PM10,1,Riverside,CA,California,33.9381,-117.3949,2112239,1556,America/Los_Angeles
+19845,40380,5/1/2022,5,Good,CO,2,Rochester,NY,New York,43.168,-77.6162,720189,2227,America/New_York
+20369,41620,5/1/2022,2,Good,CO,5,Salt Lake City,UT,Utah,40.7776,-111.9311,1135747,700,America/Denver
+20577,41740,5/1/2022,49,Good,PM2.5,1,San Diego,CA,California,32.8313,-117.1222,3178495,1675,America/Los_Angeles
+20578,41740,5/2/2022,43,Good,PM2.5,1,San Diego,CA,California,32.8313,-117.1222,3178495,1675,America/Los_Angeles
+21255,42420,5/1/2022,10,Good,PM2.5,1,Scottsbluff,NE,Nebraska,41.8684,-103.6616,14660,853,America/Denver
+21256,42420,5/2/2022,17,Good,PM2.5,1,Scottsbluff,NE,Nebraska,41.8684,-103.6616,14660,853,America/Denver
+21257,42420,5/3/2022,13,Good,PM2.5,1,Scottsbluff,NE,Nebraska,41.8684,-103.6616,14660,853,America/Denver
+21258,42420,5/4/2022,13,Good,PM2.5,1,Scottsbluff,NE,Nebraska,41.8684,-103.6616,14660,853,America/Denver
+21259,42420,5/5/2022,5,Good,PM2.5,1,Scottsbluff,NE,Nebraska,41.8684,-103.6616,14660,853,America/Denver
+21260,42420,5/6/2022,22,Good,PM2.5,1,Scottsbluff,NE,Nebraska,41.8684,-103.6616,14660,853,America/Denver
+21261,42420,5/7/2022,33,Good,PM2.5,1,Scottsbluff,NE,Nebraska,41.8684,-103.6616,14660,853,America/Denver
+21262,42420,5/8/2022,18,Good,PM2.5,1,Scottsbluff,NE,Nebraska,41.8684,-103.6616,14660,853,America/Denver
+21263,42420,5/9/2022,14,Good,PM2.5,1,Scottsbluff,NE,Nebraska,41.8684,-103.6616,14660,853,America/Denver
+21264,42420,5/10/2022,5,Good,PM2.5,1,Scottsbluff,NE,Nebraska,41.8684,-103.6616,14660,853,America/Denver
+21265,42420,5/11/2022,43,Good,PM2.5,1,Scottsbluff,NE,Nebraska,41.8684,-103.6616,14660,853,America/Denver
+21266,42420,5/12/2022,18,Good,PM2.5,1,Scottsbluff,NE,Nebraska,41.8684,-103.6616,14660,853,America/Denver
+21267,42420,5/13/2022,8,Good,PM2.5,1,Scottsbluff,NE,Nebraska,41.8684,-103.6616,14660,853,America/Denver
+21268,42420,5/14/2022,12,Good,PM2.5,1,Scottsbluff,NE,Nebraska,41.8684,-103.6616,14660,853,America/Denver
+21269,42420,5/15/2022,5,Good,PM2.5,1,Scottsbluff,NE,Nebraska,41.8684,-103.6616,14660,853,America/Denver
+21270,42420,5/16/2022,8,Good,PM2.5,1,Scottsbluff,NE,Nebraska,41.8684,-103.6616,14660,853,America/Denver
+21271,42420,5/17/2022,7,Good,PM2.5,1,Scottsbluff,NE,Nebraska,41.8684,-103.6616,14660,853,America/Denver
+21272,42420,5/18/2022,7,Good,PM2.5,1,Scottsbluff,NE,Nebraska,41.8684,-103.6616,14660,853,America/Denver
+21273,42420,5/19/2022,18,Good,PM2.5,1,Scottsbluff,NE,Nebraska,41.8684,-103.6616,14660,853,America/Denver
+21274,42420,5/20/2022,8,Good,PM2.5,1,Scottsbluff,NE,Nebraska,41.8684,-103.6616,14660,853,America/Denver
+21275,42420,5/21/2022,3,Good,PM2.5,1,Scottsbluff,NE,Nebraska,41.8684,-103.6616,14660,853,America/Denver
+21276,42420,5/22/2022,4,Good,PM2.5,1,Scottsbluff,NE,Nebraska,41.8684,-103.6616,14660,853,America/Denver
+21277,42420,5/23/2022,14,Good,PM2.5,1,Scottsbluff,NE,Nebraska,41.8684,-103.6616,14660,853,America/Denver
+21278,42420,5/24/2022,16,Good,PM2.5,1,Scottsbluff,NE,Nebraska,41.8684,-103.6616,14660,853,America/Denver
+21279,42420,5/25/2022,10,Good,PM2.5,1,Scottsbluff,NE,Nebraska,41.8684,-103.6616,14660,853,America/Denver
+21280,42420,5/26/2022,9,Good,PM2.5,1,Scottsbluff,NE,Nebraska,41.8684,-103.6616,14660,853,America/Denver
+21281,42420,5/27/2022,13,Good,PM2.5,1,Scottsbluff,NE,Nebraska,41.8684,-103.6616,14660,853,America/Denver
+21282,42420,5/28/2022,13,Good,PM2.5,1,Scottsbluff,NE,Nebraska,41.8684,-103.6616,14660,853,America/Denver
+21283,42420,5/29/2022,9,Good,PM2.5,1,Scottsbluff,NE,Nebraska,41.8684,-103.6616,14660,853,America/Denver
+21284,42420,5/30/2022,6,Good,PM2.5,1,Scottsbluff,NE,Nebraska,41.8684,-103.6616,14660,853,America/Denver
+21285,42420,5/31/2022,5,Good,PM2.5,1,Scottsbluff,NE,Nebraska,41.8684,-103.6616,14660,853,America/Denver
+24650,47260,5/5/2022,8,Good,PM10,1,Virginia Beach,VA,Virginia,36.7335,-76.0435,1475522,711,America/New_York
+25136,47900,5/5/2022,6,Good,PM10,2,Washington,DC,District of Columbia,38.9047,-77.0163,5066973,4434,America/New_York
